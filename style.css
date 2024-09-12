@@ -735,6 +735,7 @@ h3.my-profession{
     background: 262626;
     font-weight: 300;
     margin-top: 30px;
+    color: var(--text-black-700);
 }
 .copyright i{
     color: red;
