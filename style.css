@@ -342,8 +342,8 @@ h3.my-profession{
     border-bottom: 10px solid var(--skin-color);
     border-right: 10px solid var(--skin-color);
     /* right: 20px; */
-    right: -10px;
-    bottom: -35px;
+    right: 27px;
+    bottom: 40px;
 }
 .home-img::before{
     content: '';
@@ -353,7 +353,7 @@ h3.my-profession{
     border-left: 10px solid var(--skin-color);
     border-top: 10px solid var(--skin-color);
     /* right: 20px; */
-    left: -15px;
+    left: 27px;
     top: -40px;
 }
 .home .home-img img{
