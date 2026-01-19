@@ -1,6 +1,6 @@
 // ================ Typing Animation==============
 var typed = new Typed(".typing",{
-    strings:["Full Stack Developer","MERN Stack Developer","Tech Enthusiast"],
+    strings:["Full Stack Developer","MERN Stack Developer","Data Analyst","Tech Enthusiast"],
     typeSpeed:50,
     backSpeed:30,
     loop:true
@@ -82,4 +82,5 @@ const nav = document.querySelector(".nav"),
                 allSection[i].classList.toggle("open");
             }
         }
+
 
